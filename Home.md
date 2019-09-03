@@ -2,7 +2,7 @@
 
 The information below is for guidance only.  Please see your teacher for more information.
 
-Please sign up for an account at [Khan Academy](http://www.khanacademy.org).  Your teacher will give you a class code.  Khan Academy lessons will be used to cover some AP course material.  Remember to sign up using your student#@pdsb.org account, and **do not use any identifying information**.  If the website asks for your name, only include your first initials.  **_This is for your security, safety, and privacy as per the school board's policy_**.
+Please sign up for an account at [Khan Academy](http://www.khanacademy.org).  Your teacher will give you a class code.  Khan Academy lessons will be used to cover some AP course material.  Remember to sign up using your student#@pdsb.net account, and **do not use any identifying information**.  If the website asks for your name, only include your first initials.  **_This is for your security, safety, and privacy as per the school board's policy_**.
 
 Anything that ends with **(AP)** does not count towards your ICS 2O9 grade.
 
