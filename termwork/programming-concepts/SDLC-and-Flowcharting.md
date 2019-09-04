@@ -4,8 +4,9 @@ You have been asked to create a computer program based on the following:
 
 _A representative from John Fraser SS has asked you to create an online ordering system for the school cafeteria.  JFSS students and staff only should be able to order a main dish, snack and drink.  They should also be able to set a pickup time._
 
-Using your knowledge of flowcharting and the SDLC, create a flowchart of how this system would work.  
+Using your knowledge of flowcharting and the SDLC, create a flowchart of how this system would work.
 
+For additional (AP) practice (do not submit): write a few sentences about a particular _algorithm_ you used.
 
 Notes for: [SDLC](./Software-Development-Life-Cycle-Notes) and [Flowcharting](./Flowcharting-Notes).
 
