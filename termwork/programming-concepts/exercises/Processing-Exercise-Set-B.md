@@ -1,4 +1,4 @@
-# Exercise Set (B)
+# Exercise Set (B) - ADDITIONAL EXERCISES TO BE ADDED
 
 For all of these exercises, do **not** hand them in, just ensure your teacher sees the work, and that you can communicate your understanding of the work related to the learning goals.
 
