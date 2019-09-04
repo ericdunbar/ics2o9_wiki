@@ -1,12 +1,15 @@
 ## Task(s)
 
-1. Create a program that demonstrates all of your knowledge of Processing up to this point.  Your program can be anything you choose (game, artwork, etc.) as long as you cover all of the necessary concepts.
+Your program can be anything you choose (game, artwork etc) as long as you cover all of the necessary concepts.
+ 
+1. Your program should include the following:
+* Anything you'd like to re-assess from Assignment 1
+* Loops (FOR and WHILE)
+* A _simulation_ of a real world event (for example, a coin flip - can't use)
 
-### Task Criteria
-
-1. Submit a short description of what you plan on making **BEFORE** you start coding.  You can deviate slightly from this, but you are not to submit something completely different without consulting your teacher.
-2. Ensure that you demonstrate all of your Processing knowledge from [Assignment 1](./Processing-Assignment-1), as well as _looping structures_ (FOR and WHILE).
-
+2. You are _encouraged_ to practice the following (AP) skills:
+* Arrays
+* Functions (with parameters + returns
 
 ## Due Dates and Submission Details
 
