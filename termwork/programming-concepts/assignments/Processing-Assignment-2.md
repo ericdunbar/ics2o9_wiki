@@ -9,7 +9,9 @@ Your program can be anything you choose (game, artwork etc) as long as you cover
 
 2. You are _encouraged_ to practice the following (AP) skills:
 * Arrays
-* Functions (with parameters + returns
+* Functions (with parameters and returns)
+
+This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP practice).
 
 ## Due Dates and Submission Details
 
