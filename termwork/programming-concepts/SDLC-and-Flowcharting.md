@@ -2,10 +2,10 @@
 
 You have been asked to create a computer program based on the following:
 
-_A representative from John Fraser SS has asked you to create an online voting system for the upcoming student council election.  Positions of President, Vice President and Grade Representative will be voted on._
+_A representative from John Fraser SS has asked you to create an online ordering system for the school cafeteria.  Students should be able to order a main dish, snack and drink.  They should also be able to set a pickup time._
 
-Using your knowledge of flowcharting and the SDLC complete the following tasks:  
-* Create a flowchart of how this system would work (Flowcharting)  
+Using your knowledge of flowcharting and the SDLC, create a flowchart of how this system would work.  
+
 
 Notes for: [SDLC](./Software-Development-Life-Cycle-Notes) and [Flowcharting](./Flowcharting-Notes).
 
