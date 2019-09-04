@@ -15,7 +15,7 @@ _Your teacher might have a different task for you to complete.  Please see your 
 * If statements (including Else If, Else, &&, ||, <, > etc)
 2. Include a link or a copy of the image that inspired you with your submission.
 
-This assignment will be evaluated in a one-on-one interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP practice).
+This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP practice).
 
 ## Due Dates and Submission Details
 
