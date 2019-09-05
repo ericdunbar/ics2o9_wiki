@@ -21,13 +21,17 @@ This refers to the fact that the steps need to be completed in that order (top t
 
 Perhaps something should only happen IF a condition is met.  For example:
 
-`Getting Ready for School`
+```
+Getting Ready for School
 
-`1. Wake Up`
+1. Wake Up
 
-`2. I am hungry:`
+2. I am hungry:
 
-`Eat Breakfast`
+     Eat Breakfast
 
-`2. Eat Breakfast`
+3. Otherwise:
+     
+     Eat Breakfast at school
+```
 
