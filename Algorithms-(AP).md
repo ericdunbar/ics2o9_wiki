@@ -28,9 +28,9 @@ Perhaps something should only happen IF a condition is met.  For example:
 
 `1. Wake Up`
 
-`2. I am hungry`
+`2. I am hungry:`
 
-`\tEat Breakfast`
+     `Eat Breakfast`
 
 `2. Eat Breakfast`
 
