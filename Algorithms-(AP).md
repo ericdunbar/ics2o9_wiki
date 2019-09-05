@@ -25,13 +25,25 @@ Perhaps something should only happen IF a condition is met.  For example:
 Getting Ready for School
 
 1. Wake Up
-
 2. I am hungry:
-
      Eat Breakfast
-
 3. Otherwise:
-     
      Eat Breakfast at school
 ```
+
+**Iteration**
+
+Certain steps can be repeated a certain number of times, or until a certain condition is met.
+
+```
+Eating a Sandwich
+1. Open mouth
+2. Insert sandwich in mouth
+3. Bite
+4. Chew
+5. Repeat all steps until sandwich is done
+
+Not all algorithms are the same, even if they are accomplishing the same task.  Some may be more _efficient_ than others.
+
+In class you will be given a problem to solve in groups using an algorithm.  Then we will discuss which one is the most efficient and why.
 
