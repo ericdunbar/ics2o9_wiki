@@ -8,3 +8,5 @@ In order to submit your AP tasks and pay for the final exam, you need to make a 
 
 4) You will be given a code in class to join our section
 
+More information will follow once everyone has registered.
+
