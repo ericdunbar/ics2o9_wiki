@@ -19,3 +19,18 @@ There are three main components of algorithms:
 **Sequencing**
 
 This refers to the fact that the steps need to be completed in that order (top to bottom).  It wouldn't make sense to `Brush Teeth` before `Wake Up`.
+
+**Selection**
+
+Perhaps something should only happen IF a condition is met.  For example:
+
+`Getting Ready for School`
+
+`1. Wake Up`
+
+`2. I am hungry`
+
+`\tEat Breakfast`
+
+`2. Eat Breakfast`
+
