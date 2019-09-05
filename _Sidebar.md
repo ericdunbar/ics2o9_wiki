@@ -10,7 +10,6 @@
 #### Computer Systems:
 * [Hardware, Networking and Operating Systems - Research and Report](./Hardware-Network-OS-Research-and-Report)
 * [Hardware, Networking and Operating Systems - Applying your Knowledge](./Hardware-Network-OS-Applying-Your-Knowledge)
-* [Computers (AP)](./Computers-(AP))
 
 #### Programming Concepts
 * [Algorithms (AP)](./Algorithms-(AP))
@@ -24,6 +23,9 @@
 #### Digital Citizenship
 * [Computers and Society](./Computers-And-Society)
 * [Health and Environment in Computer Careers](./Health-and-Environment-in-Computer-Careers)
+
+#### (AP) Material
+* [Computers (AP)](./Computers-(AP))
 
 ## Programming Examples
 * [Accessing the mouse and keyboard](https://github.com/mrseidel-classes/ICS2O/tree/master/Example%20Programs/accessingMouseAndKeyboard)
