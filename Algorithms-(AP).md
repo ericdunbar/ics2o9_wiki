@@ -42,6 +42,7 @@ Eating a Sandwich
 3. Bite
 4. Chew
 5. Repeat all steps until sandwich is done
+```
 
 Not all algorithms are the same, even if they are accomplishing the same task.  Some may be more _efficient_ than others.
 
