@@ -16,7 +16,7 @@ See your teacher for due date details.
 | [Processing Assignment 1](./Processing-Assignment-1) | Friday October 25 |
 | [Computers and Society](./Computers-And-Society) | Friday November 1 |
 | [Health and Environment in Computer Careers](./Health-and-Environment-in-Computer-Careers) and [Global Impact (AP)](./Global-Impact-(AP)) | Friday November 8 |
-| [Processing Exercises B](./Processing-Exercise-Set-B) |  |
-| [Processing Assignment 2](./Processing-Assignment-2) |  |
+| [Processing Exercises B](./Processing-Exercise-Set-B) and [Data Analysis (AP)](./Data-Analysis-(AP)] | Friday November 29  |
+| [Processing Assignment 2](./Processing-Assignment-2) | Friday December 13 |
 
 
