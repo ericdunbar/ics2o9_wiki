@@ -20,7 +20,6 @@ This section will contain links to all of the course assignments.  They are grou
 #### Computer Systems:
 * [Hardware, Networking and Operating Systems - Research and Report](./Hardware-Network-OS-Research-and-Report)
 * [Hardware, Networking and Operating Systems - Applying your Knowledge](./Hardware-Network-OS-Applying-Your-Knowledge)
-* [Computers (AP)](./Computers-(AP))
 
 #### Programming Concepts
 * [Software Development Life Cycle and Flowcharting](./SDLC-and-Flowcharting)
