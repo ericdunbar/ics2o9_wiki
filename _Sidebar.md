@@ -22,8 +22,7 @@
 
 #### Digital Citizenship
 * [Computers and Society](./Computers-And-Society)
-* [Human Health and Environment](./Human-Health-and-Environment)
-* [Post Secondary Opportunities](./Post-Secondary-Opportunities)
+* [Health and Environment in Computer Careers](./Health-and-Environment-in-Computer-Careers)
 
 ## Programming Examples
 * [Accessing the mouse and keyboard](https://github.com/mrseidel-classes/ICS2O/tree/master/Example%20Programs/accessingMouseAndKeyboard)
