@@ -35,6 +35,12 @@ This section will contain links to all of the course assignments.  They are grou
 * [Human Health and Environment](./Human-Health-and-Environment)
 * [Post Secondary Opportunities](./Post-Secondary-Opportunities)
 
+#### (AP) Material
+* [Computers (AP)](./Computers-(AP))
+* [The Internet (AP)](./The-Internet-(AP))
+* [Global Impact (AP)](./Global-Impact-(AP))
+* [Data Analysis (AP)](./Data-Analysis-(AP))
+
 
 ## Notes
 All of the course notes will be linked to through this section.  If you find other notes that you believe would prove useful for a particular item, please deposit a link to the IN drive folder "Suggested Notes".
