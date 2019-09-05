@@ -5,7 +5,8 @@ An _algorithm_ is a set of instructions used to solve a problem.  You use algori
 2. Eat Breakfast
 3. Brush Teeth
 4. Get Dressed
-etc```
+etc
+```
 
 Algorithms can be expressed in plain language (like above), flow charts (later!) or pseudocode (code intended to be read by humans and not computers).
 
