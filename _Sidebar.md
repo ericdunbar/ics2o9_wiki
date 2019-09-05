@@ -26,6 +26,7 @@
 
 #### (AP) Material
 * [Computers (AP)](./Computers-(AP))
+* [The Internet (AP)](./The-Internet-(AP))
 
 ## Programming Examples
 * [Accessing the mouse and keyboard](https://github.com/mrseidel-classes/ICS2O/tree/master/Example%20Programs/accessingMouseAndKeyboard)
