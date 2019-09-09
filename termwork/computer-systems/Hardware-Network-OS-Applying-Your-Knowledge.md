@@ -60,18 +60,18 @@ An abstract about the paperwork in the next few pages.  This is usually a summar
 ### Section 4 (Proposed System)  
 This section will be the largest of all sections, and will include:
 * A paragraph describing the client's needs in your own words followed by,
-* A table (or tables) that shows the computer hardware and specialty item choices. Include part type, product name, where you plan to buy the item and price (1-3 pages).
+* A table (or tables) that shows the computer hardware (individual components) and specialty item choices. Include part type, product name, where you plan to buy the item and price (1-3 pages).  [PCPartPicker](https://ca.pcpartpicker.com/) is an excellent resource.
 * Include hyperlinks for your prices.  If you are unsure of how to add a hyperlink, a short lesson will be available for you.
 
 ### Section 5 (Networking)
 This is a written section that includes:
 * A paragraph describing the client's needs in your own words followed by,
-* A table of required hardware and networking applications, similar to Section 4.
+* A table of required hardware and networking applications (such as for file sharing or communication), similar to Section 4.
 
 ### Section 6 (Software and Operating Systems)
 This is a written and visual section as follows:
 * Describe which Operating System and applications (non-networking) the client could possibly need.  Include current pricing (hyperlink the price to your source).
-* Describe briefly what preventative maintenance the client should use.
+* Describe briefly what preventative maintenance (steps they should take to ensure the smooth operation of their computer) the client should use.
 * Describe a folder structure that you could suggest to the client.  Feel free to include a visual of this if you find it easier.
 
 ### Section 7 (Reasoning)  
