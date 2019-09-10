@@ -28,7 +28,7 @@ Getting Ready for School
 2. I am hungry:
      Eat Breakfast
 3. Otherwise:
-     Eat Breakfast at school
+     Stop at McDonald's on the way to school.  Buy Mr. Kowalczewski a Bacon & Egg McMuffin and coffee (one cream)
 ```
 
 **Iteration**
