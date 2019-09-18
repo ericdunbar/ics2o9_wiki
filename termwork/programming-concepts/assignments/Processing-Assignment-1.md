@@ -1,7 +1,5 @@
 ## Task(s)
 
-_Your teacher might have a different task for you to complete.  Please see your teacher for more information_
-
 1. Create your own rendition of an artistic piece using _at least_ ```ellipse```, ```rect```, ```line``` as your shapes.
 
   * For example, if you were using using circles to recreate the Mona Lisa, you could do something like [this](https://i.pinimg.com/736x/08/59/bf/0859bf1ea923f8097e6f7f1af937b1d4--paper-mosaic-mona-lisa.jpg) or [this](http://www.risasinmas.com/wp-content/uploads/2013/12/La-Mona-Lisa-hecha-con-puntos.jpg).
@@ -15,7 +13,7 @@ _Your teacher might have a different task for you to complete.  Please see your 
 * If statements (including Else If, Else, &&, ||, <, > etc)
 2. Include a link or a copy of the image that inspired you with your submission.
 
-This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP practice).
+This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** you used for (AP practice).
 
 ## Due Dates and Submission Details
 
