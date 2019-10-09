@@ -4,7 +4,7 @@
 * [Course Outline (AP)](./Course-Outline-(AP))
 * [Overarching Learning Goals](./images/ICS2O.jpg)
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
-* [AP Registration and Exam Information](./AP Registration and Exam Information)
+* [AP Registration and Exam Information](./AP-Registration-and-Exam-Information)
 
 ## Assignments
 #### Computer Systems:
