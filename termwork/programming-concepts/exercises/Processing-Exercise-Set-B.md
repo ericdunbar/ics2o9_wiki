@@ -21,7 +21,7 @@ _Estimated time to complete: 1-3 classes_
 ## Exercise 7
 _Estimated time to complete: 2-3 classes_
 
-1. Recreate [this image](https://imgur.com/QRgdwMj).  Use a single ```FloatList``` to complete this task.  Trees are added one at a time with a right mouse clock, and taken away one at a time with a left mouse click.
+1. Recreate [this image](https://imgur.com/QRgdwMj).  Use a single ```FloatList``` to complete this task.  Trees are added one at a time with a right mouse click, and taken away one at a time with a left mouse click.
 
 ## Exercise 8
 _Estimated time to complete: 1-2 classes_
