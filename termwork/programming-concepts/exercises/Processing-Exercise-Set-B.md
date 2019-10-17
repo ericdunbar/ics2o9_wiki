@@ -1,4 +1,4 @@
-# Exercise Set (B) - ADDITIONAL EXERCISES TO BE ADDED
+# Exercise Set (B)
 
 For all of these exercises, do **not** hand them in, just ensure your teacher sees the work, and that you can communicate your understanding of the work related to the learning goals.
 
@@ -18,13 +18,17 @@ _Estimated time to complete: 1-3 classes_
 
 ![here](http://mrseidel.com/images/Processing/2O/Exercise7_2O.png)
 
-## Bonus Exercise
-_Estimated time to complete: 2-4 classes_
+## Exercise 7
+_Estimated time to complete: 2-3 classes_
 
-1. Work on this if you complete Exercise 7 early.
-2. Recreate the image below.  You will need to make use of the ```%``` operator, and ```while``` loops.
+1. Recreate [this image](https://imgur.com/QRgdwMj).  Use a single ```FloatList``` to complete this task.  Trees are added one at a time with a right mouse clock, and taken away one at a time with a left mouse click.
 
-![Ex6](http://mrseidel.com/images/Processing/2O/Exercise6_2O.gif)
+## Exercise 8
+_Estimated time to complete: 1-2 classes_
+
+1. Make a copy of Assignment 1.  Organize your code using functions, rather than having everything in the Draw function.  For example you can have functions to draw certain parts of your sketch, or to perform certain checks.
+
+
 
 ## Learning Goals and Success Criteria
 
