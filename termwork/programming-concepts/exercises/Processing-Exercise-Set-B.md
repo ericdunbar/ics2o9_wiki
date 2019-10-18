@@ -2,7 +2,7 @@
 
 For all of these exercises, do **not** hand them in, just ensure your teacher sees the work, and that you can communicate your understanding of the work related to the learning goals.
 
-It is highly suggested that you complete these 3 exercises **prior** to attempting [Processing - Assignment 2](./Processing-Assignment-2)
+It is highly suggested that you complete these exercises **prior** to attempting [Processing - Assignment 2](./Processing-Assignment-2)
 
 ## Exercise 5
 _Estimated time to complete: 2-3 classes_
@@ -21,14 +21,22 @@ _Estimated time to complete: 1-3 classes_
 ## Exercise 7
 _Estimated time to complete: 2-3 classes_
 
-1. Recreate [this image](https://imgur.com/QRgdwMj).  Use a single ```FloatList``` to complete this task.  Trees are added one at a time with a right mouse click, and taken away one at a time with a left mouse click.
+1. Recreate [this image](https://imgur.com/QRgdwMj).  Use only two ```FloatList```s to complete this task.  Trees are added one at a time with a right mouse click, and taken away one at a time with a left mouse click.
 
 ## Exercise 8
 _Estimated time to complete: 1-2 classes_
 
 1. Make a copy of Assignment 1.  Organize your code using functions, rather than having everything in the ```draw()``` function.  For example you can have functions to draw certain parts of your sketch, or to perform certain checks.
 
+## Exercise 9
+_Estimated time to complete: 2-3 classes_
 
+1. Recreate [this image](https://imgur.com/a/4NpZGqB).  There will be **one function** that assigns the colour to each randomly drawn square.
+
+```color squareColour(float xPos, float yPos)```
+
+* Parameters are the x and y position of a square
+* Returns a colour based on the distance of the mouse cursor to the centre of the square
 
 ## Learning Goals and Success Criteria
 
