@@ -5,13 +5,14 @@ Your program can be anything you choose (game, artwork etc) as long as you cover
 1. Your program should include the following:
 * Anything you'd like to re-assess from Assignment 1
 * Loops (FOR and WHILE)
-* A _simulation_ of a real world event (for example, a coin flip - can't use)
 
 2. You are _encouraged_ to practice the following (AP) skills:
-* Arrays
+* Arrays (FloatList, StringList etc)
 * Functions (with parameters and returns)
+* Implement an **algorithm** that contains **two or more algorithms**
+* Collaborate with a partner.  If you choose to do this, make sure that both of you understand _everything_ in the program, and that it is clear which sections each partner was responsible for
 
-This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP practice).
+This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP) practice.
 
 ## Due Dates and Submission Details
 
