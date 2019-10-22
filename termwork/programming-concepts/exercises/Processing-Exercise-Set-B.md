@@ -18,17 +18,17 @@ _Estimated time to complete: 1-3 classes_
 
 ![here](http://mrseidel.com/images/Processing/2O/Exercise7_2O.png)
 
-## Exercise 7
+## Exercise 7 (AP)
 _Estimated time to complete: 2-3 classes_
 
 1. Recreate [this image](https://imgur.com/QRgdwMj).  Use only two ```FloatList```s to complete this task.  Trees are added one at a time with a right mouse click, and taken away one at a time with a left mouse click.
 
-## Exercise 8
+## Exercise 8 (AP)
 _Estimated time to complete: 1-2 classes_
 
 1. Make a copy of Assignment 1.  Organize your code using functions, rather than having everything in the ```draw()``` function.  For example you can have functions to draw certain parts of your sketch, or to perform certain checks.
 
-## Exercise 9
+## Exercise 9 (AP)
 _Estimated time to complete: 2-3 classes_
 
 1. Recreate [this image](https://imgur.com/a/4NpZGqB).  There will be **one function** that assigns the colour to each randomly drawn square.
