@@ -16,9 +16,9 @@
 * [Software Development Life Cycle and Flowcharting](./SDLC-and-Flowcharting)
 * [Exercises (Set A)](./Processing-Exercise-Set-A)
 * [Exercises (Set B)](./Processing-Exercise-Set-B)
+* [Abstractions (AP)](./Abstractions)
 * [Processing - Assignment 1](./Processing-Assignment-1)
 * [Processing - Assignment 2](./Processing-Assignment-2)
-* **[Enrichment - HTML and CSS](./HTML-and-CSS)**
 
 #### Digital Citizenship
 * [Computers and Society](./Computers-And-Society)
