@@ -16,7 +16,7 @@
 * [Software Development Life Cycle and Flowcharting](./SDLC-and-Flowcharting)
 * [Exercises (Set A)](./Processing-Exercise-Set-A)
 * [Exercises (Set B)](./Processing-Exercise-Set-B)
-* [Abstractions (AP)](./Abstractions)
+* [Abstractions (AP)](./Abstractions-(AP))
 * [Processing - Assignment 1](./Processing-Assignment-1)
 * [Processing - Assignment 2](./Processing-Assignment-2)
 
