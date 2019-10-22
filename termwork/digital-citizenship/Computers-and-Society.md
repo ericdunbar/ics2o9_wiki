@@ -12,9 +12,22 @@ Create an informational item (i.e. video, website, pamplet, etc.) about issues t
 * _What_ the issue is, _How_ and _Why_ it happens.
 * Any _Legal_ and _Ethical_ issues your topic presents.
 * How someone can protect themselves from those issues.
-* Cite any sources used with either APA or MLA format
+* Cite any sources as described below.
 
 Free online infographic tools are available [here](https://www.canva.com/create/infographics/), [here](https://piktochart.com/), and [here](https://venngage.com/).  There are more available if you don't like the ones above (a Google search will find you some more).
+
+## Sources
+
+To practice for the upcoming Explore Task, your sources should be gathered and presented in the following ways:
+
+* At least three sources, can be online, print or interview-based
+* At least two sources created after June 2019
+* Online sources should include complete URL, author, title, source, date you retrieved and date posted
+* Print sources should include author, title, page number(s), publisher and date of publication
+* If you have an interview source, include the name of the person, the date of interview and the person’s position in the field
+* Include in-text citations
+* Each source must be relevant, credible and easily accessed
+
 
 ## Due Dates and Submission Details
 
