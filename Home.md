@@ -27,7 +27,6 @@ This section will contain links to all of the course assignments.  They are grou
 * [Exercises (Set B)](./Processing-Exercise-Set-B) - useful before Assignment 2
 * [Processing - Assignment 1](./Processing-Assignment-1)
 * [Processing - Assignment 2](./Processing-Assignment-2)
-* **[Enrichment - HTML and CSS](./HTML-and-CSS)**
 
 #### Digital Citizenship
 * [Computers and Society](./Computers-And-Society)
