@@ -10,6 +10,7 @@ Your program can be anything you choose (game, artwork etc) as long as you cover
 * Arrays (FloatList, StringList etc)
 * Functions (with parameters and returns)
 * Implement an **algorithm** that contains **two or more algorithms**
+* Think about an **abstraction** that you've used - perhaps a function that lets you focus more important things
 * Collaborate with a partner.  If you choose to do this, make sure that both of you understand _everything_ in the program, and that it is clear which sections each partner was responsible for
 
 This assignment will be evaluated with an interview.  You will also be asked about any **algorithms** and **abstractions** you used for (AP) practice.
