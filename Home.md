@@ -31,8 +31,7 @@ This section will contain links to all of the course assignments.  They are grou
 
 #### Digital Citizenship
 * [Computers and Society](./Computers-And-Society)
-* [Human Health and Environment](./Human-Health-and-Environment)
-* [Post Secondary Opportunities](./Post-Secondary-Opportunities)
+* [Health and Environment in Computers Careers](./Health-and-Environment-in-Computer-Careers)
 
 #### (AP) Material
 * [Computers (AP)](./Computers-(AP))
