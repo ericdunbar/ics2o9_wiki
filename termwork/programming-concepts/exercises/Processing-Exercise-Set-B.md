@@ -28,6 +28,8 @@ _Estimated time to complete: 1-2 classes_
 
 1. Make a copy of Assignment 1.  Organize your code using functions, rather than having everything in the ```draw()``` function.  For example you can have functions to draw certain parts of your sketch, or to perform certain checks.
 
+Try to include the use of parameters in at least one function.
+
 ## Exercise 9 (AP)
 _Estimated time to complete: 2-3 classes_
 
