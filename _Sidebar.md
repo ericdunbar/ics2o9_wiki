@@ -30,6 +30,7 @@
 * [Global Impact (AP)](./Global-Impact-(AP))
 * [Data Analysis (AP)](./Data-Analysis-(AP))
 * [Explore Task (AP)](./Explore-Task-(AP))
+* [Create Task (AP)](./Create-Task-(AP))
 
 ## Programming Examples
 * [Accessing the mouse and keyboard](https://github.com/mrseidel-classes/ICS2O/tree/master/Example%20Programs/accessingMouseAndKeyboard)
