@@ -37,6 +37,8 @@ This section will contain links to all of the course assignments.  They are grou
 * [The Internet (AP)](./The-Internet-(AP))
 * [Global Impact (AP)](./Global-Impact-(AP))
 * [Data Analysis (AP)](./Data-Analysis-(AP))
+* [Explore Task (AP)](./Explore-Task-(AP))
+* [Create Task (AP)](./Create-Task-(AP))
 
 
 ## Notes
