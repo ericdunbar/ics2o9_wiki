@@ -2,7 +2,7 @@
 
 Name: Explore a Computing Innovation
 
-Time: 8 class periods
+Time: 7 class periods
 
 Weighting: 14% of AP Grade.  Parts of this task will also be used for your ICS2O summative task (15% of your grade)
 
