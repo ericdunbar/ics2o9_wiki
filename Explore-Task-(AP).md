@@ -4,7 +4,7 @@ Name: Explore a Computing Innovation
 
 Time: 7 class periods
 
-Weighting: 14% of AP Grade.  Parts of this task will also be used for your ICS2O summative task (15% of your grade)
+Weighting: 14% of AP Grade.  Parts of this task will also be used for your ICS2O culminating task (15% of your grade)
 
 Further Description: [here](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 
@@ -69,4 +69,4 @@ OTHER INFO
 
 Please refer to the document for additional information, particularly the “Guidelines Section” that contains things you must, may or may not do.
 
-Some of these responses will be used for your ICS 2O written summative assignment.  
+Some of these responses will be used for your ICS 2O written culminating assignment.  
