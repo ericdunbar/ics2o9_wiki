@@ -4,7 +4,7 @@ Name: Create Task (programming)
 
 Time: 10 class periods
 
-Weighting: 26% of AP Grade.  Parts of this task will also be used for your ICS2O summative task.
+Weighting: 26% of AP Grade.  Parts of this task will also be used for your ICS2O culminating task (15%).
 
 Further Description: [here](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 
@@ -65,4 +65,4 @@ You are strongly encouraged to submit your written responses using the template 
 
 Please refer to the document for additional information, particularly the “Guidelines Section” that contains things you must, may or may not do.
 
-Your code will be used for your ICS 2O programming summative assignment (check criteria).
+Your code will be used for your ICS 2O programming culminating assignment (check criteria).
