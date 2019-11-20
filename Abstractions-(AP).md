@@ -32,6 +32,8 @@ When we draw a rectangle, we have made use of an abstraction.  The actual proces
 
 When we learned about functions we described it as reusable code.  The ability to reuse code is an abstraction because it gives you less to think about (once you’ve initially created it).  During the actual creation of the function, you may also find yourself removing detail you don’t feel is relevant to what you are trying to accomplish.
 
+Even using a `List` (like in Exercise 7) is an example of an abstraction.  You didn't have to think about how to add/remove each individual tree.  Once you set up your List (and `for` loops), all of the trees get handled in the same way.
+
 In your next assignment and in your Create Task, you will be asked to discuss an abstraction that you used.
 
 
