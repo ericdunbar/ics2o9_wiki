@@ -22,9 +22,11 @@ This section will contain links to all of the course assignments.  They are grou
 * [Hardware, Networking and Operating Systems - Applying your Knowledge](./Hardware-Network-OS-Applying-Your-Knowledge)
 
 #### Programming Concepts
+* [Algorithms (AP)](./Algorithms-(AP))
 * [Software Development Life Cycle and Flowcharting](./SDLC-and-Flowcharting)
-* [Exercises (Set A)](./Processing-Exercise-Set-A) - useful before Assignment 1
-* [Exercises (Set B)](./Processing-Exercise-Set-B) - useful before Assignment 2
+* [Exercises (Set A)](./Processing-Exercise-Set-A)
+* [Exercises (Set B)](./Processing-Exercise-Set-B)
+* [Abstractions (AP)](./Abstractions-(AP))
 * [Processing - Assignment 1](./Processing-Assignment-1)
 * [Processing - Assignment 2](./Processing-Assignment-2)
 
