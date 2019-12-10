@@ -31,9 +31,7 @@ Your program should:
 
 ## WRITTEN RESPONSES
 
-You are given a mark if you answer the question appropriately, no partial credit.  Each response has a maximum number of words.  
-
-Sample responses are available [at the bottom of this page.](https://apcentral-stg.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles)
+Each response has a maximum number of words.  Sample responses are available [at the bottom of this page.](https://apcentral-stg.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles).  The beginning of the "Sample Responses" document has the full criteria.  You get a mark if you have an appropriate response for each criteria.  Please note that some responses will have multiple criteria.
 
 You are strongly encouraged to submit your written responses using the template found on the AP site.
 
