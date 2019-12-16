@@ -37,7 +37,7 @@ Examples could include: visualizations, graphics, videos, audio recording etc.
 
 ## WRITTEN RESPONSES
 
-Each response has a maximum number of words.  Sample responses are available [at the bottom of this page.](https://apcentral-stg.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles).  The beginning of the "Sample Responses" document has the full criteria.  You get a mark if you have an appropriate response for each criteria.  Please note that some responses will have multiple criteria (response 2C has three criteria, so three marks).
+Each response has a maximum number of words.  Sample responses are available [at the bottom of this page.](https://apcentral-stg.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles)  The beginning of the "Sample Responses" document has the full criteria.  An excellent resource (organizing the information from the previous link) from another CSP teacher can be found [here.](https://drive.google.com/file/d/1OnPHHUTRuyhI9kWUd91TQVOyCDTpGIbq/view?usp=sharing) You get a mark if you have an appropriate response for each criteria.  Please note that some responses will have multiple criteria (response 2C has three criteria, so three marks).
 
 You are strongly encouraged to submit your written responses using the template found on the AP site.
 
