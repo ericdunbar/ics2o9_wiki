@@ -4,7 +4,7 @@ You may use the research and responses from your Explore Task.  Modify your resp
 
 * __Ethical / Legal__: Use the portion of response 2d that discusses the “concern”.  Ensure that it explains the ethical and/or legal dilemma clearly (expand on your response if you wish).
 
-* __Health / Environmental__:  Describe any health or environmental concerns your innovation may cause, and how you can reduce the impact.
+* __Health / Environmental__:  Describe any health or environmental concerns your innovation may cause (in the creation or use), and how the impact can be reduced.
 
 * __Computers and Society__:  Use response 2c.
 
