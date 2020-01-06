@@ -19,7 +19,7 @@ See your teacher for due date details.
 | [Processing Exercises B](./Processing-Exercise-Set-B) and [Data Analysis (AP)](./Data-Analysis-(AP)) | Friday November 29  |
 | [Processing Assignment 2](./Processing-Assignment-2) | Wednesday December 11 |
 | [Explore Task (AP)](./Explore-Task-(AP)) | Friday December 20 |
-| Written Culminating | Tuesday January 7 |
+| [Written Culminating](./Written-Culminating) | Thursday January 9 (beginning of class) |
 | [Create Task (AP)](./Create-Task-(AP)) and Programming Culminating | Tuesday January 21 |
 
 
