@@ -70,3 +70,10 @@ OTHER INFO
 Please refer to the document for additional information, particularly the “Guidelines Section” that contains things you must, may or may not do.
 
 Some of these responses will be used for your ICS 2O written culminating assignment.  
+
+## Submission
+
+The Computational Artifact and Written Responses must be submitted to AP [here.](https://digitalportfolio.collegeboard.org) Read all instructions carefully - for example, you are asked to remove your name and are strongly encouraged to use the given template for your Written Responses.
+
+ 
+
