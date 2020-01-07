@@ -19,7 +19,7 @@ Your total response should be no longer than 1000 words (title(s), name and sour
 Include sources as necessary (MLA or APA)
 
 ## Due Dates and Submission Details
-Please see the [due dates](./Due-Dates-and-Submission-Details) page for more details on when this is due and how to submit your work.
+The [Explore Task (AP)](./Explore-Task-(AP)) must be submitted before this Written Culminating can be assessed.  Ask your teacher for assistance if needed.
 
 ## Goals and Success Criteria
 
