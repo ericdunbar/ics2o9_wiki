@@ -20,6 +20,6 @@ See your teacher for due date details.
 | [Processing Assignment 2](./Processing-Assignment-2) | Wednesday December 11 |
 | [Explore Task (AP)](./Explore-Task-(AP)) | Friday December 20 |
 | [Written Culminating](./Written-Culminating) | Thursday January 9 (beginning of class) |
-| [Create Task (AP)](./Create-Task-(AP)) and Programming Culminating | Tuesday January 21 |
+| [Create Task (AP)](./Create-Task-(AP)) and [Programming Culminating](./Programming-Culminating) | Tuesday January 21 |
 
 
