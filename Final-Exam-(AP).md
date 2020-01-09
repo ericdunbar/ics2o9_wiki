@@ -29,7 +29,7 @@ Because this course can be taught in any programming language, programming quest
 
 There are several websites that offer lessons for this course.  You can go through the Khan Academy lessons again to review.  Here are some of the other courses you can try:
 
-CodeHS (includes a practice exam) [Class join code here](https://codehs.com/go/2179C)
+CodeHS (includes a practice exam) [Class join code 2179C](https://codehs.com/go/2179C)
 
 CS50 (“audit” the course)
 
