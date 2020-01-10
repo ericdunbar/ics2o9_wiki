@@ -29,11 +29,11 @@ Because this course can be taught in any programming language, programming quest
 
 There are several websites that offer lessons for this course.  You can go through the Khan Academy lessons again to review.  Here are some of the other courses you can try:
 
-CodeHS (includes a practice exam) [Class join code 2179C](https://codehs.com/go/2179C)
+[CodeHS](https://www.codehs.com) (includes a practice exam) [Class join code 2179C](https://codehs.com/go/2179C)
 
-CS50 (“audit” the course)
+[CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science) (“audit” the course)
 
-Code.org
+[Code.org](https://code.org/)
 
 Your teacher also has an official Practice Exam that will be administered sometime in April.  Check your school email in early April for details.
 
