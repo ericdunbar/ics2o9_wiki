@@ -41,6 +41,7 @@ This section will contain links to all of the course assignments.  They are grou
 * [Data Analysis (AP)](./Data-Analysis-(AP))
 * [Explore Task (AP)](./Explore-Task-(AP))
 * [Create Task (AP)](./Create-Task-(AP))
+* [Final Exam (AP)](./Final-Exam-(AP))
 
 
 ## Notes
