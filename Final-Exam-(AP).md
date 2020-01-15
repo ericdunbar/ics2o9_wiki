@@ -41,7 +41,7 @@ Here are some practice questions we'll do in class:
 
 [Final Exam Practice 1](https://docs.google.com/forms/d/e/1FAIpQLSdCGICRyhLIyvoHtEgqgLFKHQQL4oJwQrFa46KHhh-IUdo0Pw/viewform?usp=sf_link)
 
-Final Exam Practice 2
+[Final Exam Practice 2](https://docs.google.com/forms/d/e/1FAIpQLSeNBiEsZuFp7e9EMiYUtpFTi5N_dgjDPddOuUHOAnMONSysBQ/viewform?usp=sf_link)
 
 Final Exam Practice 3
 
