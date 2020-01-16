@@ -43,7 +43,7 @@ Here are some practice questions we'll do in class:
 
 [Final Exam Practice 2](https://docs.google.com/forms/d/e/1FAIpQLSeNBiEsZuFp7e9EMiYUtpFTi5N_dgjDPddOuUHOAnMONSysBQ/viewform?usp=sf_link)
 
-Final Exam Practice 3
+[Final Exam Practice 3](https://docs.google.com/forms/d/e/1FAIpQLSfY1C7oknqKEOhOEPdDCEdgfE9O8_VzASJPQdrcufcccFvJ_Q/viewform?usp=sf_link)
 
 Final Exam Practice 4
 
