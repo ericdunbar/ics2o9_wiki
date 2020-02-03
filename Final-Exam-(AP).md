@@ -39,13 +39,13 @@ Your teacher also has an official Practice Exam that will be administered someti
 
 Here are some practice questions we'll do in class:
 
-[Final Exam Practice 1](https://docs.google.com/forms/d/e/1FAIpQLSdCGICRyhLIyvoHtEgqgLFKHQQL4oJwQrFa46KHhh-IUdo0Pw/viewform?usp=sf_link)
+Final Exam Practice 1
 
-[Final Exam Practice 2](https://docs.google.com/forms/d/e/1FAIpQLSeNBiEsZuFp7e9EMiYUtpFTi5N_dgjDPddOuUHOAnMONSysBQ/viewform?usp=sf_link)
+Final Exam Practice 2
 
-[Final Exam Practice 3](https://docs.google.com/forms/d/e/1FAIpQLSfY1C7oknqKEOhOEPdDCEdgfE9O8_VzASJPQdrcufcccFvJ_Q/viewform?usp=sf_link)
+Final Exam Practice 3
 
-[Final Exam Practice 4](https://docs.google.com/forms/d/e/1FAIpQLScgA0MaKADsZYUh3JtN7imwgMFkSQr0Brgi0ruwMVCKXO1T2A/viewform?usp=sf_link)
+Final Exam Practice 4
 
 
 
